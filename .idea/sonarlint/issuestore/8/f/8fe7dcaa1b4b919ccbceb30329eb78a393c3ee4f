@@ -1,0 +1,14 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8•Åò–€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óœˆÀúÿÿÿÿ8•Åò–€/
+\
+java:S1161":Add the "@Override" annotation above this method signature(·–ŸŒÿÿÿÿÿ8íØô–€/
+\
+java:S1161":Add the "@Override" annotation above this method signature(†µÂçıÿÿÿÿ8íØô–€/
+[
+java:S3400"9Remove this method and declare a constant for this value.(˜íşûøÿÿÿÿ8•Åò–€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šÛ©Èûÿÿÿÿ8•Åò–€/
+\
+java:S1161":Add the "@Override" annotation above this method signature(‘ÀƒÔşÿÿÿÿ8íØô–€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÈó¼úÿÿÿÿ8•Åò–€/
